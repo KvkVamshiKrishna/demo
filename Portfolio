@@ -1,0 +1,134 @@
+Build a fully responsive personal portfolio website for a creative professional named Akhil Osama using React and Tailwind CSS. The site should have a modern, cinematic feel and smooth scrolling.
+
+📌 General Requirements:
+Use React (with functional components and hooks).
+
+Use Tailwind CSS for styling.
+
+Add smooth scroll behavior when clicking nav links.
+
+Include a top navigation bar that sticks to the top and contains links to:
+
+Home
+
+About
+
+Skills
+
+Portfolio
+
+Experience
+
+Services
+
+Contact
+
+📌 Sections:
+1. Navbar
+Fixed at the top with a logo on the left: “Akhil Osama”
+
+Navigation links on the right (scroll to sections)
+
+Collapsible hamburger menu for mobile
+
+2. Hero Section (Home)
+Fullscreen background (optional video or dark gradient image)
+
+A one-line tagline like:
+“Visual Storyteller | Video Editor | Creative Director”
+
+Two CTA buttons: “Watch Reel” and “Contact Me”
+
+Add a scroll-down indicator
+
+3. About Section
+Brief paragraph about Akhil (pull from his resume)
+
+Profile image on the side
+
+Mention education: B.Tech IT, CMR Engineering College (Graduating 2025)
+
+Link to download resume (PDF)
+
+4. Skills Section
+Grid or icon-based layout
+
+Categories:
+
+Video Editing: Adobe Premiere Pro, After Effects
+
+Photo & Color: Lightroom, DaVinci Resolve (Basic)
+
+Graphic Design: Photoshop, Canva
+
+Cameras: Sony ZV-E10, DSLR/Mirrorless
+
+Platforms: YouTube, Instagram, Vimeo
+
+Use progress bars or skill tags
+
+5. Portfolio Section
+Gallery/grid view of projects with filter options
+
+Categories:
+
+Short Films
+
+Photo Edits
+
+Video Edits
+
+Graphic Designs
+
+Clicking an item should open a modal or lightbox with a preview (image or video)
+
+6. Experience Section
+Vertical timeline layout
+
+Include roles like:
+
+Sainma Hungama – Video Editor (2024–Present)
+
+Back Benchers Construction Co. – Editor (2022–2023)
+
+PRU Telugu YouTube Channel – Freelance Editor
+
+Mahabubnagar Food Vlogs – Creator
+
+Day Dreamer Creations – Founder
+
+For each job: role, year, 2 bullet points on work done
+
+7. Services Section
+3–4 cards or blocks showcasing:
+
+🎬 Video Editing
+
+📸 Photography
+
+🎨 Graphic Design
+
+📹 Content Creation for Social Media
+
+8. Contact Section
+Simple contact form (name, email, message)
+
+Email: akhilosma@gmail.com
+
+Add social media icons for YouTube, Instagram
+
+Optionally add WhatsApp link
+
+✨ Design Suggestions:
+Dark theme preferred (black/grey) with accent color (red or teal)
+
+Smooth section scroll & transition animations
+
+Hover effects on portfolio cards
+
+Font recommendations: Montserrat, Lato, or Inter
+
+📍 Footer:
+Simple footer with © 2025 Akhil Osama
+
+Social media links again
