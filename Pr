@@ -1,0 +1,17 @@
+I have a project called ServeEase — a Spring Boot backend with a React frontend. 
+I want to add a simple AI-powered customer support chatbot. 
+The chatbot should:
+- Answer user queries about ServeEase features (registration, login, booking process, ratings, etc.)
+- Use an external free LLM API (prefer Hugging Face Inference API, not OpenAI/Gemini which need paid keys).
+- Work only as a support assistant: it should NOT make real bookings or modify data.
+- The backend should expose a /api/chat endpoint that accepts a user query, calls the LLM API with a system prompt, and returns the chatbot's response.
+- The frontend should have a chat widget (input box + chat history) that connects to this endpoint.
+
+Tasks for you:
+1. Create a new Spring Boot module with ChatController, ChatService, and configuration to call the Hugging Face Inference API.
+2. Show me where to place this module in my existing folder structure.
+3. Provide a sample system prompt that ensures the chatbot stays as a polite support assistant and never performs actual actions.
+4. Provide example React component code for a simple chat UI connected to /api/chat.
+5. Ensure the whole solution is beginner-friendly and can run with just a free Hugging Face API key.
+
+Please generate the backend and frontend code snippets step by step, explain the flow clearly, and keep everything in line with best practices for my existing ServeEase project.
